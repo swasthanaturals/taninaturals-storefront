@@ -5,4 +5,6 @@
  */
 
 // You can delete this file if you're not using it
+import "./src/styles/css/typography.css"
 import "./src/styles/css/global.css"
+require("typeface-montserrat")
